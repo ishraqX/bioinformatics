@@ -61,12 +61,10 @@ How to Run the Project
 
     Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ishraqX/bioinformatics.git
+cd 2114951040_Bioinformatics-Project-FInal
 
-Install required libraries:
-
-pip install -r requirements.txt
+Install required libraries.
 
 Open and run the Jupyter Notebook or Python script:
 
